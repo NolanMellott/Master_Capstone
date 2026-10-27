@@ -14,4 +14,6 @@ Regression was performed on the initial model which lead to feature elimination 
 Once the number of variables was properly reduced, a final model on the training data was created.
 The model was then used to predict order values on the test set, which would then be compared to the actual values.
 Results of the model were then presented alongside tests to prove that the assumptions of MLR were true.
-Further details of the results and tests can be found in the report .docx file.
+High level overview of the project can be found in the presentation .pdf file.
+A lower-level, more in-depth overview can be seen in the .docx file.
+These were files submitted for my capstone, which is why there are specific sections in the .docx file.
